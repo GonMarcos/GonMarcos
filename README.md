@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oi, Me chamo Marcos👋
 
-<!--
-**GonMarcos/GonMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning JavaScript and ReactJs
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with Hooks on react
+- 📫 How to reach me: +55 21 964746251
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/GonMarcos>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?GonMarcos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?GonMarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
