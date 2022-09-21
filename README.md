@@ -6,7 +6,8 @@
 - 📫 How to reach me: +55 21 964746251
 
 <div>
-<a href="https://github.com/GonMarcos/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?GonMarcos&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?GonMarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/GonMarcos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonMarcos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GonMarcos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
